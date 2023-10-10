@@ -2,7 +2,7 @@
     "name": "milk-carton",
     "displayName": "Milk Carton",
     "description": "A collection of extensions for JavaScript and design oriented development",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "pafiume",
     "icon": "milk-carton.png",
     "galleryBanner": {

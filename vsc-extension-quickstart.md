@@ -15,3 +15,23 @@
 ## Install your extension
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+## Publish your extension
+
+Taken from [vs code docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+Install `vsce`
+
+```
+npm install -g @vscode/vsce
+```
+
+You can use vsce to easily package and publish your extensions:
+
+```
+$ cd myExtension
+$ vsce package
+# myExtension.vsix generated
+$ vsce publish
+# <publisher id>.myExtension published to VS Code Marketplace
+```

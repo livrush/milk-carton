@@ -29,3 +29,5 @@
 | Vscode Todo Highlight | wayou |
 | Change Case | wmaurer |
 | Java Script Snippets | xabikos |
+
+# Check out my work at [pafiu.me](http://pafiu.me)!
