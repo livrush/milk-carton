@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [2.0.2] - 2023-10-10
+### Changed
+- Add repository to package.json
+
+## [2.0.1] - 2023-10-10
+### Changed
+- Update readme
+
 ## [2.0.0] - 2023-10-10
 ### Changed
 - Update readme
