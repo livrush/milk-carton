@@ -1,0 +1,63 @@
+{
+    "name": "milk-carton",
+    "displayName": "Milk Carton",
+    "description": "A collection of extensions for JavaScript and design oriented development",
+    "version": "1.0.0",
+    "publisher": "pafiume",
+    "icon": "milk.png",
+    "galleryBanner": {
+        "color": "#ffc15e",
+        "theme": "light"
+    },
+    "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "snippet",
+        "color"
+    ],
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "CoenraadS.bracket-pair-colorizer", 
+        "HookyQR.beautify", 
+        "WallabyJs.quokka-vscode", 
+        "Zignd.html-css-class-completion", 
+        "aaron-bond.better-comments", 
+        "abusaidm.html-snippets", 
+        "anseki.vscode-color", 
+        "bierner.color-info", 
+        "christian-kohler.npm-intellisense", 
+        "coderfee.open-html-in-browser", 
+        "dbaeumer.vscode-eslint", 
+        "dbankier.vscode-instant-markdown", 
+        "deerawan.vscode-faker", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.code-runner", 
+        "gerane.Theme-BirdsofParadise", 
+        "gerane.Theme-GhettoBerryBlast", 
+        "gerane.Theme-Meteor", 
+        "idleberg.icon-fonts", 
+        "mdickin.markdown-shortcuts", 
+        "mrmlnc.vscode-duplicate", 
+        "ms-vscode.atom-keybindings", 
+        "naumovs.color-highlight", 
+        "oderwat.indent-rainbow", 
+        "oneo.smile-icons", 
+        "pranaygp.vscode-css-peek", 
+        "robertohuertasm.vscode-icons", 
+        "sozercan.slack", 
+        "spywhere.guides", 
+        "streetsidesoftware.code-spell-checker", 
+        "tinkertrain.theme-panda", 
+        "waderyan.gitblame", 
+        "wayou.vscode-todo-highlight", 
+        "wmaurer.change-case", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
