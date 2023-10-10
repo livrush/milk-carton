@@ -35,3 +35,5 @@ $ vsce package
 $ vsce publish
 # <publisher id>.myExtension published to VS Code Marketplace
 ```
+
+Make sure to get a [personal access token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
